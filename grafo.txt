@@ -1,0 +1,24 @@
+Porto Alegre,Alvorada,17,BR-290
+Porto Alegre,Gravatai,30,BR-290
+Porto Alegre,Canoas,19,BR-116
+Porto Alegre,Cachoeirinha,19,BR-290
+Gravatai,Porto Alegre,30,BR-290
+Gravatai,Alvorada,20,RS-118
+Gravatai,Esteio,20,RS-118
+Gravatai,Sapucaia do Sul,16,RS-118
+Gravatai,Cachoeirinha,9,RS-020
+Alvorada,Cachoeirinha,10,BR-290
+Alvorada,Gravatai,20,RS-118
+Alvorada,Porto Alegre,17,BR-290
+Cachoeirinha,Alvorada,10,BR-290
+Cachoeirinha,Canoas,13,BR-290
+Cachoeirinha,Porto Alegre,19,BR-290
+Cachoeirinha,Gravatai,9,RS-020
+Canoas,Cachoeirinha,13,BR-290
+Canoas,Esteio,15,BR-116
+Canoas,Porto Alegre,19,BR-116
+Esteio,Gravatai,20,RS-118
+Esteio,Canoas,15,BR-116
+Esteio,Sapucaia do Sul,7,BR-116
+Sapucaia do Sul,Esteio,7,BR-116
+Sapucaia do Sul,Gravatai,16,RS-118
